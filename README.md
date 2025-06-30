@@ -96,5 +96,7 @@ Toxic gas monitoring in labs.
 
 Real-time IoT integration with mobile apps or dashboards.
 
+![Image](https://github.com/user-attachments/assets/3746b88f-ccfe-4fb0-8d9d-3131e44dff58)
+
 ✅ Conclusion
 The IoT Air Quality Monitor is a simple yet highly impactful project to start exploring IoT concepts. With Tinkercad, we were able to simulate this task completely in a virtual environment, making it ideal for learning and prototyping. By combining basic electronics knowledge with virtual tools, we gain hands-on experience in building smart, environment-focused systems.
